@@ -1,10 +1,15 @@
 # react-apps
 My journey through learning javascript, react, redux, express, node, etc. Projects are chronologically ordered.
 
-**1. test-app**
+## Apps
 
-  Literally just a test app to see if I can run a react app. Turns out I can.
+1. **test-app**
 
-**2. counter-app**
+   Literally just a test app to see if I can run a react app. Turns out I can.
 
-  Followed a [tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0) to create a shopping cart type counter. Lifting states.
+2. **counter-app**
+
+   Followed a [tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0) to create a shopping cart type counter. Lifting states.  
+3. **react-express-app**
+
+   Followed [Deploying a React app with React-Router and an Express Backend](https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3). Horrible tutorial btw.
