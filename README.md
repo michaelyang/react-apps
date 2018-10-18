@@ -13,3 +13,18 @@ My journey through learning javascript, react, redux, express, node, etc. Projec
 3. **react-express-app**
 
    Followed [Deploying a React app with React-Router and an Express Backend](https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3). Horrible tutorial btw.
+
+## Topics
+- [ ] HTML
+- [ ] CSS
+- [ ] Javascript
+- [ ] CSS Preprocessor (Sass)
+- [ ] CSS Architecture (BEM)
+- [ ] JS Framework (React)
+- [ ] Redux
+- [ ] Serverside Rendering (Express)
+- [ ] Node
+- [ ] Meteor
+- [ ] Apollo
+- [ ] RestfulAPI
+- [ ] GraphQL
