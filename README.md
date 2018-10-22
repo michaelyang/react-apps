@@ -1,5 +1,5 @@
 # react-apps
-My journey through learning javascript, react, redux, express, node, etc. Projects are chronologically ordered.
+My journey through learning html, css, javascript, react, redux, express, node, etc. Projects are chronologically ordered.
 
 ## Apps
 
